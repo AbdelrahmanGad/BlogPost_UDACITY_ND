@@ -22,7 +22,7 @@ As a result, I set out to address the following questions in my study, based on 
 
 
 ## Project File:
-[Notebook](https://github.com/AbdelrahmanGad/BlogPost_UDACITY_ND/blob/main/Stackoverflow_analysis_ND.ipynb) : Jubyter notebook including all data manipulation ad analysis for this project
+* [Notebook](https://github.com/AbdelrahmanGad/BlogPost_UDACITY_ND/blob/main/Stackoverflow_analysis_ND.ipynb) : Jubyter notebook including all data manipulation ad analysis for this project
 
 ## Blog Post:
 * [Blog Post](https://github.com/AbdelrahmanGad/BlogPost_UDACITY_ND/blob/main/Blog.md) : rsulted blog post from analysis
