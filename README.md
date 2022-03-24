@@ -7,3 +7,14 @@ As a result, I set out to address the following questions in my study, based on 
 * what is the gender distribution of developers in each country?
 * Is there a difference in working hours between men and women?
 * How many programming learner are there in each gender?
+
+
+## Libraries:
+* numpy
+* pandas
+* matplotlib
+* sklearnrn
+* collections
+
+## Source files:
+* 
