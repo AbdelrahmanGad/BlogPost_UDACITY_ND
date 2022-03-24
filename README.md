@@ -17,4 +17,5 @@ As a result, I set out to address the following questions in my study, based on 
 * collections
 
 ## Source files:
-* 
+* [Survey Result](https://github.com/AbdelrahmanGad/BlogPost_UDACITY_ND/blob/main/survey_results_public.csv) : file containing data of survey result
+* [Survey Schema](https://github.com/AbdelrahmanGad/BlogPost_UDACITY_ND/blob/main/survey_results_schema.csv) : file containing each column and corresponding question 
