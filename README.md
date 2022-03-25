@@ -38,6 +38,8 @@ From my perspective, feel free to utilize this code in any way you see fit
 ## Results:
 In this blog, we talked about whether or not it matters what gender you are when you work as developer. and to answer our question, we looked at the public Stack Overflow Developer Survey Results database each year. This survey was done by more than 64,000 people and asked about the type of code used, work status, education level, and job happiness.
 Following our analysis, we come to the conclusion that the difficulty of a programming language should not be taken into account when we try to answer our main questions.
+
 Besides, we also say that developing is a more interesting field for men than for women.
 A lot of female developers work longer hours than male developers in some countries, which might make them think about studying programming less. This might make them think about not studying programming.
+
 **So, yes, gender does play a role in development industry.**
