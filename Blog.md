@@ -1,6 +1,6 @@
-![image1](https://github.com/AbdelrahmanGad/BlogPost_UDACITY_ND/blob/main/gender2.jpg)
-# Does it matter what gender you are in devloping?
 
+# Does it matter what gender you are in devloping?
+![image1](https://github.com/AbdelrahmanGad/BlogPost_UDACITY_ND/blob/main/gender2.jpg)
 
 I chose to look at the public Stack Overflow Developer Survey Results' annual database. In 2019, 64,883 respondents completed the poll, which included questions about the type of code used, work status, education level, and career happiness. This is what I discovered after asking a couple questions in response to the database.
 
