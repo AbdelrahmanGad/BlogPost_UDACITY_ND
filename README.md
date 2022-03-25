@@ -26,3 +26,9 @@ As a result, I set out to address the following questions in my study, based on 
 
 ## Blog Post:
 * [Blog Post](https://github.com/AbdelrahmanGad/BlogPost_UDACITY_ND/blob/main/Blog.md) : rsulted blog post from analysis
+
+
+## Acknowledgments:
+I'd like to thank Udacity for this course because some of the coding principles come from their classes and the data came from Stackoverflow and kaggle.
+The Kaggle and Stackoverflow websites contains data licensing as well as other detailed information.
+From my perspective, feel free to utilize this code in any way you see fit
